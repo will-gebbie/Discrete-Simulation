@@ -2,7 +2,6 @@ import simpy
 import statistics
 import numpy as np
 
-#this initialization only works if variables are arranged correctly
 server_name = "Jamba Juice" #variable never called; implementation to come in future versions
 server_cap = 1 #capacity
 entity_name = "Customer"
